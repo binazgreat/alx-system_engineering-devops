@@ -1,1 +1,1 @@
-Biniyam G is ALX student
+script that prints the absolute path name of the current working directory
