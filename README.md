@@ -1,1 +1,1 @@
-su betty
+This script prints "Hello, World"
